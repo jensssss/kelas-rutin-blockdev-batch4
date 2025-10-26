@@ -1,0 +1,3 @@
+This is the first session in kelas rutin blockdev batch 4. Overall i can keep with the material because i have background in cybersecurity and JS full stack development. For me personally, understanding the concept in smart contracts like functions, inheritance, mapping, array, etc is relatively easy. The hard part is when i try to connect those concept into a functional project such as LiskGarden (The mini project that the mentor gave me). From this session i learnt that it is easy to understand something, the real challenge is implementing everything we've learnt into real case.
+
+OKayyy, thatss it for today. Thanks for reading my web3 learning documentation, see you on top!
